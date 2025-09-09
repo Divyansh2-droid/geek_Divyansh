@@ -1,1 +1,16 @@
+name: Update LeetCode Stats
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight
+  workflow_dispatch:       # Manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate LeetCode Card
+        uses: JasonEtco/rss-to-readme@v1
+        with:
+          url: https://leetcard.jacoblin.cool/geek_Divyansh?ext=heatmap
+          file: README.md
