@@ -48,4 +48,8 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0205-isomorphic-strings) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
