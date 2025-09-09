@@ -19,6 +19,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0205-isomorphic-strings) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
