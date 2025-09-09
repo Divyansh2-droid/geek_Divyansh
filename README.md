@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
