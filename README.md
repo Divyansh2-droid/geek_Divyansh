@@ -44,10 +44,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0205-isomorphic-strings) |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
