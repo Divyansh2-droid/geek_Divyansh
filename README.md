@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 ## Hash Table
@@ -25,6 +26,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
