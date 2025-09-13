@@ -44,6 +44,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
+| [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
