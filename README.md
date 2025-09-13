@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,16 @@
 | [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0152-maximum-product-subarray) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
