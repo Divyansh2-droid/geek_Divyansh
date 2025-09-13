@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 ## Hash Table
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -69,4 +71,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
