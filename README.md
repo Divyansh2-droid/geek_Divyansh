@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
