@@ -14,6 +14,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 ## Two Pointers
