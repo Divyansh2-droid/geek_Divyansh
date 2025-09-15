@@ -76,6 +76,7 @@
 | [1317-monthly-transactions-i](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1390-average-selling-price) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
 |  |
 | ------- |
