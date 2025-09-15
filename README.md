@@ -65,6 +65,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0196-delete-duplicate-emails) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
