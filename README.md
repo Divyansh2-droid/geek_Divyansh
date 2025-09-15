@@ -65,6 +65,7 @@
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0184-department-highest-salary) |
 | [1390-average-selling-price](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1390-average-selling-price) |
 ## Stack
 |  |
