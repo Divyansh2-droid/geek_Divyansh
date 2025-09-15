@@ -81,6 +81,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1390-average-selling-price) |
 | [1877-find-followers-count](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
 |  |
