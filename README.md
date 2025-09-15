@@ -87,6 +87,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1452-restaurant-growth) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1480-movie-rating) |
 | [1811-fix-names-in-a-table](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1877-find-followers-count) |
