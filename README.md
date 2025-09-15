@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0196-delete-duplicate-emails) |
 | [0626-exchange-seats](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0626-exchange-seats) |
 | [1390-average-selling-price](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1390-average-selling-price) |
 ## Stack
