@@ -23,6 +23,7 @@
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2102-find-the-middle-index-in-array) |
 ## Greedy
 |  |
 | ------- |
