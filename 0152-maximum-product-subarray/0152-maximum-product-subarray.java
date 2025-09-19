@@ -1,25 +1,18 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int maxEndingHere = nums[0];
-        int minEndingHere = nums[0];
-        int maxProd = nums[0];
-
-        for (int i = 1; i < nums.length; i++) {
-            int num = nums[i];
-
-            // If number is negative, swap max and min
-            if (num < 0) {
-                int temp = maxEndingHere;
-                maxEndingHere = minEndingHere;
-                minEndingHere = temp;
+      int n = nums.length;
+     int maxprod =nums[0];
+      for(int i =0; i<n; i++){
+        int prod =1;
+        
+        for(int j =i; j<n; j++){
+            prod = prod*nums[j];
+            if(prod>maxprod){
+                maxprod = prod;
             }
 
-            maxEndingHere = Math.max(num, maxEndingHere * num);
-            minEndingHere = Math.min(num, minEndingHere * num);
-
-            maxProd = Math.max(maxProd, maxEndingHere);
         }
-
-        return maxProd;
+      }
+      return maxprod;
     }
 }
