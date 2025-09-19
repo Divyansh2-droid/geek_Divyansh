@@ -19,6 +19,7 @@
 | [0152-maximum-product-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0205-isomorphic-strings) |
+| [0560-subarray-sum-equals-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
