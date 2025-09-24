@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0205-isomorphic-strings) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -70,6 +72,7 @@
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0344-reverse-string) |
 ## Database
