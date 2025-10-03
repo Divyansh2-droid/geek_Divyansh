@@ -14,6 +14,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0152-maximum-product-subarray) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0344-reverse-string) |
