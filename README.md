@@ -29,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
@@ -53,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0166-fraction-to-recurring-decimal) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0165-compare-version-numbers) |
