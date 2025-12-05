@@ -20,6 +20,7 @@
 | [0152-maximum-product-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
+| [0485-max-consecutive-ones](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0713-subarray-product-less-than-k) |
