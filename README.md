@@ -26,6 +26,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0724-find-pivot-index) |
 | [0830-largest-triangle-area](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0830-largest-triangle-area) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2102-find-the-middle-index-in-array](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [0202-happy-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0202-happy-number) |
 | [0830-largest-triangle-area](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
