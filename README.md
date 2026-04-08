@@ -10,8 +10,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0027-remove-element) |
@@ -31,8 +31,8 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2102-find-the-middle-index-in-array](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0166-fraction-to-recurring-decimal) |
@@ -42,22 +42,22 @@
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0169-majority-element) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0066-plus-one) |
@@ -67,8 +67,8 @@
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0027-remove-element) |
@@ -77,8 +77,8 @@
 | [0344-reverse-string](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0908-middle-of-the-linked-list) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
@@ -88,8 +88,8 @@
 | [0205-isomorphic-strings](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0344-reverse-string) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0181-employees-earning-more-than-their-managers) |
@@ -130,29 +130,29 @@
 | [2057-count-salary-categories](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Divyansh2-droid/geek_Divyansh/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0110-balanced-binary-tree) |
@@ -160,8 +160,8 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0110-balanced-binary-tree) |
@@ -169,8 +169,8 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0110-balanced-binary-tree) |
@@ -178,45 +178,45 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0145-binary-tree-postorder-traversal) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/2102-find-the-middle-index-in-array) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0011-container-with-most-water) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0830-largest-triangle-area](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0830-largest-triangle-area) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
