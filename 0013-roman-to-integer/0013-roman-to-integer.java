@@ -28,4 +28,4 @@ class Solution {
         // Step 4: Final total return karo
         return total;
     }
-}
+} 
