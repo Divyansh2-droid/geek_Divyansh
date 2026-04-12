@@ -62,6 +62,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0066-plus-one) |
@@ -185,6 +186,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/main/0002-add-two-numbers/) | Medium |
 | [1013-fibonacci-number](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/1013-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -210,6 +212,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Divyansh2-droid/geek_Divyansh/tree/main/0002-add-two-numbers/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/Divyansh2-droid/geek_Divyansh/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
